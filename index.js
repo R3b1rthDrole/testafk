@@ -17,4 +17,4 @@ client.on('ready', async() => {
 })
 
 //Connection discord
-client.login("ODA3MDI4MDIyNDcyNzM2Nzg4.YByBag.R_aEZqP7w-UDTVgOXQwG750jBAY")
+client.login(process.env.TOKEN)
